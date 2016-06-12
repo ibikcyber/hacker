@@ -1,0 +1,25 @@
+.jumbotron {
+	background-image: url(1.jpg);
+	height: 300px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: buttom;
+}
+
+.jumbotron h1{
+	font-family: 'Impact', fantasy;
+	font-size: 80px;
+	color: whitesmoke;
+}
+
+.jumbotron p{
+	font-family: 'Impact', fantasy;
+	font-size: 25px;
+	color: whitesmoke;
+}
+
+.jumbotron a{
+	font-family: 'Impact', fantasy;
+	font-size: 15px;
+	color: aquamarine;
+}
