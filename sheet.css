@@ -1,5 +1,5 @@
 #headerwrap {
-	background: url(1.jpg) no-repeat center top;
+	background: url(1.jpg) ;
 	margin-top: -20px;
 	padding-top:170px;
 	text-align:center;
@@ -21,8 +21,8 @@
 
 #headerwrap h1 {
 	color:#ffffff;
-	margin-top: 30px;
-	padding-bottom: 70px;
+	margin-top: 90px;
+	padding-bottom: 30px;
 	letter-spacing: 8px;
 	font-size: 100px;
 	font-weight: bold;
